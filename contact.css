@@ -1,0 +1,85 @@
+body {
+    background-image: url('contact.jpg');;
+
+}
+
+.headding {
+
+    text-align: center;
+    font-size: 140%;
+    text-transform: uppercase;
+    /* text-overflow: ellipsis; */
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: rgb(158, 214, 246);
+    box-shadow: inset 37px 0px 19px rgb(74 189 228);
+    border-radius: 5px;
+    /* margin-top: 0%;
+    padding: 0%; */
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
+
+.navsubset {
+
+    display: flex;
+    font-size: 18px;
+    margin: 20px;
+
+}
+
+.navlist {
+
+    list-style: none;
+    padding: 26PX;
+}
+
+.navlist:hover {
+    background-color: rgb(147, 212, 250);
+    cursor: grab;
+}
+
+.navlink {
+    color: black;
+    text-decoration: none;
+}
+
+.navlink:hover {
+    color: #f3f5b8;
+}
+
+.contact {
+    text-transform: capitalize;
+    font-size: 25px;
+    color: white;
+}
+
+.mobile {
+    font-size: 25px;
+    text-transform: capitalize;
+    color: white;
+}
+
+.email {
+    font-size: 25px;
+    text-transform: capitalize;
+    color: white;
+}
+.insta{
+    font-size: 25px;
+    text-transform: capitalize;
+    color: white;
+}
+.instalink{
+    color: rgb(253, 195, 248);
+    text-decoration: none;
+}
+.instalink:hover{
+    cursor: grab;
+    color: blue;
+}
+
+

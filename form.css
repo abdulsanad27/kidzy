@@ -1,0 +1,110 @@
+* {
+    background-color: rgb(181, 228, 244);
+    background-image: url('R.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.headding1 {
+
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    /* color: rgb(0, 0, 0); */
+    font-weight: bold;
+    /* background-color: rgb(14, 58, 83); */
+    box-shadow: inset 2px 1px 20px 6px rgb(133, 224, 249);
+    /* border-radius: 5px; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.navsubset {
+
+    display: flex;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: -14px;
+}
+
+.link1 {
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    padding: 20px;
+}
+.link1:hover {
+    color: rgb(208, 208, 45);
+    background-color: rgb(153, 19, 19);
+}
+
+
+#h1 {
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(128, 209, 232);
+}
+
+#ip1 {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #5daccd;
+
+}
+
+#ip2 {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #5daccd;
+
+}
+
+#ip3 {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #5daccd;
+
+}
+
+#em {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #5daccd;
+}
+
+#ps {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #5daccd;
+}
+
+#add {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #5daccd;
+}
+
+#res {
+    width: 210px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #22e23b;
+
+}
+
+#sub {
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    border: 3px solid #e81111;
+}

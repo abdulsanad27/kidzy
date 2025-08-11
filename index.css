@@ -1,0 +1,458 @@
+body {
+    background-color: rgb(181, 228, 244);
+    padding: 0;
+    background-image: url('S.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.headding {
+
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    /* text-overflow: ellipsis; */
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: rgb(158, 214, 246);
+    box-shadow: -2px -1px 11px 6px rgb(152 196 216);
+    /* margin-top: 0%;
+    padding: 0%; */
+    display: flex;
+    justify-content: space-around;
+    background: repeat;
+    margin: -15px;
+    margin-top: -5px;
+
+
+
+}
+
+.navsubset {
+
+    display: flex;
+    font-size: 18px;
+    margin: 20px;
+
+}
+
+.navlist {
+
+    list-style: none;
+    padding: 26PX;
+}
+
+.navlist:hover {
+   background-color: #ccebf2;
+    cursor: grab;
+   
+}
+.link1{
+    color: rgb(0, 0, 0);
+
+}
+.link1:hover{
+    color: rgb(74, 223, 126);
+    
+}
+
+.mainimg{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    
+    
+}
+#img1{
+    width: 300px;
+    height: 250px;
+    display: block;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    margin: 10px;
+}
+#img2{
+    width: 300px;
+    height: 250px;
+    display: block;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    margin: 10px;
+    
+}
+#img3{
+    width: 300px;
+    height: 250px;
+    display: block;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    margin: 10px;
+}
+
+#h102 {
+    color: rgb(85, 4, 74);
+    font-size: 35px;
+    text-transform: capitalize;
+    text-align: center;
+
+
+}
+
+#h105 {
+    color: rgb(5, 67, 36);
+    font-size: 40px;
+    margin: 000%;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#h103 {
+    color: rgb(85, 4, 74);
+    font-size: 35px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#para1 {
+    color: rgb(90, 3, 3);
+    font-size: 25px;
+
+}
+
+#para2 {
+    color: black;
+    text-align: justify;
+    text-transform: capitalize;
+    font-weight: normal;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#para3 {
+    color: black;
+    text-align: justify;
+    text-transform: capitalize;
+    font-weight: normal;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#h104 {
+    color: rgb(90, 3, 3);
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+#tb1 {
+    color: rgb(50, 25, 25);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#t1 {
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+
+
+}
+
+#t2 {
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#t3 {
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#d1 {
+    /* color: rgb(10, 68, 88); */
+    font-size: 25px;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+
+#d2 {
+    /* color: rgb(10, 68, 88); */
+    font-size: 25px;
+    text-transform: lowercase;
+}
+
+#d3 {
+    /* color: rgb(10, 68, 88); */
+    font-size: 25px;
+    text-transform: lowercase;
+}
+
+#d4 {
+    /* color: rgb(90, 8, 82); */
+    font-size: 25px;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+
+#d5 {
+    /* color: rgb(90, 8, 82); */
+    font-size: 25px;
+    text-transform: lowercase;
+}
+
+#d6 {
+    /* color: rgb(90, 8, 82); */
+    font-size: 25px;
+    text-transform: lowercase;
+}
+
+#h106 {
+    color: rgb(90, 3, 3);
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+#para4 {
+    color: rgb(90, 3, 3);
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+#para5 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#h107 {
+    color: rgb(85, 4, 74);
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+#ul1 {
+    list-style-type: circle;
+
+}
+
+#l1 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#l2 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#l3 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#l4 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#h108 {
+    color: rgb(85, 4, 74);
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+#tb2 {
+    font-size: 20px;
+    font-weight: bold
+}
+
+#t4 {
+    color: rgb(62, 10, 75);
+    font-size: 25px;
+}
+
+#t5 {
+    color: rgb(62, 10, 75);
+    font-size: 25px;
+}
+
+#t6 {
+    color: rgb(62, 10, 75);
+    font-size: 25px;
+}
+
+#t7 {
+    color: rgb(62, 10, 75);
+    font-size: 25px;
+}
+
+#d7 {
+    color: black;
+}
+
+#d8 {
+    color: black;
+}
+
+#d9 {
+    color: black;
+}
+
+#d10 {
+    color: black;
+}
+
+#d11 {
+    color: black;
+}
+
+#d12 {
+    color: black;
+}
+
+#d13 {
+    color: black;
+}
+
+#d14 {
+    color: black;
+}
+
+#d15 {
+    color: black;
+}
+
+#d16 {
+    color: black;
+}
+
+#d17 {
+    color: black;
+}
+
+#d18 {
+    color: black;
+}
+
+#d19 {
+    color: black;
+}
+
+#d20 {
+    color: black;
+}
+
+#d21 {
+    color: black;
+}
+
+#d22 {
+    color: black;
+}
+
+#h109 {
+    color: rgb(85, 4, 74);
+    font-size: 35px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.addmition{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+/* 
+#tb3 {
+    font-size: 25px;
+    /* color: rgb(5, 67, 36); 
+    font-weight: bold;
+}
+
+#t8 {
+    color: rgb(116, 4, 82);
+    font-size: 25px;
+}
+
+#t9 {
+    color: rgb(116, 4, 82);
+    font-size: 25px;
+}
+
+#t10 {
+    color: rgb(116, 4, 82);
+    font-size: 25px;
+}
+
+#t11 {
+    color: rgb(116, 4, 82);
+    font-size: 25px;
+}
+
+#d23 {
+    color: black;
+}
+
+#d24 {
+    color: black;
+}
+
+#d25 {
+    color: black;
+}
+
+#d27 {
+    color: black;
+}
+
+#d28 {
+    color: black;
+}
+
+#d29 {
+    color: black;
+}
+
+
+#d31 {
+    color: black;
+}
+
+#d32 {
+    color: black;
+}
+
+#d33 {
+    color: black;
+} */
+
+#f1 {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: seashell;
+}
+
+a {
+    text-decoration: none;
+}
